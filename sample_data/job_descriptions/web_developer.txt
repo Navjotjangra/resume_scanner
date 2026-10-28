@@ -1,0 +1,1 @@
+Web Developer job description. Looking for a full-stack web developer with JavaScript, React, Node.js, HTML, and CSS. Experience building responsive front-end interfaces and back-end APIs. Familiarity with TypeScript, REST APIs, and web application architecture is a plus.

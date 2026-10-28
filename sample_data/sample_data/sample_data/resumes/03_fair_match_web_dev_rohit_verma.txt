@@ -1,0 +1,5 @@
+ROHIT VERMA - Python Web Developer
+Skills: Python, Flask, Django, REST API, HTML, CSS, JavaScript, MySQL, Git, Docker
+Experience: Backend Developer Intern - built REST APIs with Flask, wrote SQL queries, used Git daily.
+Projects: E-commerce website using Django; blog API using Flask and Docker.
+Education: BCA, Computer Applications.

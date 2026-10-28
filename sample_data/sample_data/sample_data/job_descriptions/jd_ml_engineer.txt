@@ -1,0 +1,16 @@
+Machine Learning Engineer (Fresher / 0-2 years)
+
+We are looking for a Machine Learning Engineer to build and deploy ML models.
+
+Responsibilities:
+- Build, train and evaluate machine learning models using Python and scikit-learn
+- Perform data cleaning and feature engineering with pandas and NumPy
+- Work on NLP tasks such as text classification and TF-IDF based similarity
+- Deploy models as REST APIs using Flask or FastAPI
+- Write SQL queries and use Git for version control
+
+Requirements:
+- Bachelor's degree in Computer Science, BCA or related field
+- Strong Python programming skills
+- Knowledge of machine learning algorithms, model evaluation and deep learning basics
+- Experience with Docker is a plus

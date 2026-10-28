@@ -1,0 +1,6 @@
+NEHA RAO - Data Analyst
+Skills: Python, pandas, NumPy, SQL, Excel, Power BI, basic machine learning with scikit-learn, Git
+Experience: Data Analyst Intern - cleaned datasets, wrote complex SQL queries, built dashboards.
+Trained a simple regression model in scikit-learn to forecast sales.
+Education: BCA in Computer Applications.
+Projects: Sales forecasting model; customer segmentation using clustering.

@@ -1,0 +1,5 @@
+KARAN SINGH - Software Developer
+Skills: C++, C#, .NET, ASP.NET, Node.js, SQL Server, Git, Visual Studio, CI/CD
+Experience: Developed desktop applications in C++ and C#. Built backend services using .NET Core and Node.js.
+Education: BCA, Computer Applications.
+Projects: Inventory management system in C#; game engine prototype in C++.

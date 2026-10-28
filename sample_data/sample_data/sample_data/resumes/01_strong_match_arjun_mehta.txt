@@ -1,0 +1,7 @@
+ARJUN MEHTA - Machine Learning Engineer
+Summary: BCA graduate with hands-on experience in Python, machine learning and NLP.
+Skills: Python, scikit-learn, pandas, NumPy, TensorFlow, NLP, TF-IDF, SQL, Git, Docker, Flask, FastAPI
+Experience: ML Intern - built text classification model using TF-IDF and logistic regression (88% accuracy).
+Deployed the model as a REST API with FastAPI and Docker. Performed data cleaning and feature engineering with pandas.
+Projects: Resume ranking system using cosine similarity; sentiment analysis with deep learning (LSTM).
+Education: BCA, Computer Applications.
